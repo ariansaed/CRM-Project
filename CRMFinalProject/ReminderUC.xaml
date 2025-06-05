@@ -1,0 +1,22 @@
+﻿<UserControl x:Class="CRMFinalProject.ReminderUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CRMFinalProject"
+             mc:Ignorable="d" 
+             d:DesignHeight="40" d:DesignWidth="610">
+    <Grid Width="610" Height="40">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="27*"/>
+            <ColumnDefinition Width="208*"/>
+            <ColumnDefinition Width="48*"/>
+            <ColumnDefinition Width="22*"/>
+        </Grid.ColumnDefinitions>
+        <Image Source="image/info-white.png" Width="35" Height="35" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Image Source="image/alarm-white.png" Height="35" Width="30" Grid.Column="3" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        
+        <TextBlock x:Name="ReminderTitleTxt" Grid.ColumnSpan="1" Grid.Column="2" Text="موضوع یادآور" HorizontalAlignment="Right" Foreground="#f2f2f2" VerticalAlignment="Center" Margin="0,0,10,5"/>
+        <TextBlock x:Name="ReminderInfoTxt" Grid.Column="1" Grid.ColumnSpan="1" Foreground="#f2f2f2" VerticalAlignment="Center" HorizontalAlignment="Right" Text="جزئیات یادآور" Margin="0,0,10,6"/>
+    </Grid>
+</UserControl>

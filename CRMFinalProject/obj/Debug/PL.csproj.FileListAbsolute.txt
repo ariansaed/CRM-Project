@@ -1,0 +1,168 @@
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\CRMFinalProject.exe.config
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\CRMFinalProject.exe
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\CRMFinalProject.pdb
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\BE.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\BLL.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\EntityFramework.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\HandyControl.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\DAL.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\BE.pdb
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\BLL.pdb
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\EntityFramework.xml
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\HandyControl.pdb
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\HandyControl.xml
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\DAL.pdb
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\DAL.dll.config
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\PL.csproj.AssemblyReference.cache
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\ClockMainWindow.g.cs
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\MainWindow.g.cs
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\App.g.cs
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject_MarkupCompile.cache
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject_MarkupCompile.lref
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\App.baml
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\ClockMainWindow.baml
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\MainWindow.baml
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.g.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.ActivityForm.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.backup.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.CustomerForm.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.invoceForm.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.ProductForm.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.Properties.Resources.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.ReminderForm.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.SettingForm.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.SmsPanelForm.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.UserForm.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\PL.csproj.GenerateResource.cache
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\PL.csproj.CoreCompileInputs.cache
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\PL.csproj.Up2Date
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.exe
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.pdb
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.ReminderFormV2.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\obj\Debug\CRMFinalProject.MyMsgBox.resources
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\Stimulsoft.Report.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\Stimulsoft.Report.Win.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\Stimulsoft.Base.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\Stimulsoft.Data.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\Project-cs\CRMFinalProject\CRMFinalProject\bin\Debug\Stimulsoft.Controls.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\CRMFinalProject.exe.config
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\CRMFinalProject.exe
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\CRMFinalProject.pdb
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\BE.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\BLL.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\EntityFramework.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\HandyControl.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Report.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Report.Win.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\DAL.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Base.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Data.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Controls.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\BE.pdb
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\BLL.pdb
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\EntityFramework.xml
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\HandyControl.pdb
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\HandyControl.xml
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\DAL.pdb
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\DAL.dll.config
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\PL.csproj.AssemblyReference.cache
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\ClockMainWindow.g.cs
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\MainWindow.g.cs
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\App.g.cs
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject_MarkupCompile.cache
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject_MarkupCompile.lref
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\App.baml
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\ClockMainWindow.baml
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\MainWindow.baml
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.g.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.ActivityForm.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.CustomerForm.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.invoceForm.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.LoginForm.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.LoginUC.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.MyMsgBox.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.ProductForm.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.Properties.Resources.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.RegisterAdmin.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.ReminderFormV2.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.SettingForm.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.SmsPanelForm.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.UserForm.resources
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\PL.csproj.GenerateResource.cache
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\PL.csproj.CoreCompileInputs.cache
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\PL.csproj.Up2Date
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.exe
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.pdb
+D:\Project-cs\CRM-Project\CRMFinalProject\bin\Debug\FoxLearn.License.dll
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\ReminderUC.g.cs
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\ReminderUC.baml
+D:\Project-cs\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.ReportForm.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\CRMFinalProject.exe.config
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\CRMFinalProject.exe
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\CRMFinalProject.pdb
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\BE.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\BLL.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\EntityFramework.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\HandyControl.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Report.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Report.Win.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\DAL.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Base.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Data.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Controls.Win.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\Stimulsoft.Controls.dll
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\BE.pdb
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\BLL.pdb
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\DevComponents.DotNetBar2.xml
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\EntityFramework.xml
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\HandyControl.pdb
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\HandyControl.xml
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\DAL.pdb
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\bin\Debug\DAL.dll.config
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\PL.csproj.AssemblyReference.cache
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\ClockMainWindow.g.cs
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\MainWindow.g.cs
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\ReminderUC.g.cs
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\App.g.cs
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject_MarkupCompile.cache
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject_MarkupCompile.lref
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\App.baml
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\ClockMainWindow.baml
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\MainWindow.baml
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\ReminderUC.baml
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.g.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.ActivityForm.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.CustomerForm.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.invoceForm.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.LoginForm.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.LoginUC.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.MyMsgBox.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.ProductForm.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.Properties.Resources.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.RegisterAdmin.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.ReminderFormV2.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.ReportForm.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.SettingForm.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.SmsPanelForm.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.UserForm.resources
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\PL.csproj.GenerateResource.cache
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\PL.csproj.CoreCompileInputs.cache
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\PL.csproj.Up2Date
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.exe
+D:\Backup Server\CRM 2\CRM-Project\CRMFinalProject\obj\Debug\CRMFinalProject.pdb

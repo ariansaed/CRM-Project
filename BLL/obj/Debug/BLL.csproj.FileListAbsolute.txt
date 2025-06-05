@@ -1,0 +1,42 @@
+D:\Project-cs\CRMFinalProject\BLL\bin\Debug\BLL.dll
+D:\Project-cs\CRMFinalProject\BLL\bin\Debug\BLL.pdb
+D:\Project-cs\CRMFinalProject\BLL\bin\Debug\BE.dll
+D:\Project-cs\CRMFinalProject\BLL\bin\Debug\DAL.dll
+D:\Project-cs\CRMFinalProject\BLL\bin\Debug\EntityFramework.dll
+D:\Project-cs\CRMFinalProject\BLL\bin\Debug\BE.pdb
+D:\Project-cs\CRMFinalProject\BLL\bin\Debug\DAL.pdb
+D:\Project-cs\CRMFinalProject\BLL\bin\Debug\DAL.dll.config
+D:\Project-cs\CRMFinalProject\BLL\bin\Debug\EntityFramework.xml
+D:\Project-cs\CRMFinalProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Project-cs\CRMFinalProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Project-cs\CRMFinalProject\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Project-cs\CRMFinalProject\BLL\obj\Debug\BLL.dll
+D:\Project-cs\CRMFinalProject\BLL\obj\Debug\BLL.pdb
+D:\Project-cs\CRM-Project\BLL\bin\Debug\BLL.dll
+D:\Project-cs\CRM-Project\BLL\bin\Debug\BLL.pdb
+D:\Project-cs\CRM-Project\BLL\bin\Debug\BE.dll
+D:\Project-cs\CRM-Project\BLL\bin\Debug\DAL.dll
+D:\Project-cs\CRM-Project\BLL\bin\Debug\EntityFramework.dll
+D:\Project-cs\CRM-Project\BLL\bin\Debug\BE.pdb
+D:\Project-cs\CRM-Project\BLL\bin\Debug\DAL.pdb
+D:\Project-cs\CRM-Project\BLL\bin\Debug\DAL.dll.config
+D:\Project-cs\CRM-Project\BLL\bin\Debug\EntityFramework.xml
+D:\Project-cs\CRM-Project\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Project-cs\CRM-Project\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Project-cs\CRM-Project\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Project-cs\CRM-Project\BLL\obj\Debug\BLL.dll
+D:\Project-cs\CRM-Project\BLL\obj\Debug\BLL.pdb
+D:\Backup Server\CRM 2\CRM-Project\BLL\bin\Debug\BLL.dll
+D:\Backup Server\CRM 2\CRM-Project\BLL\bin\Debug\BLL.pdb
+D:\Backup Server\CRM 2\CRM-Project\BLL\bin\Debug\BE.dll
+D:\Backup Server\CRM 2\CRM-Project\BLL\bin\Debug\DAL.dll
+D:\Backup Server\CRM 2\CRM-Project\BLL\bin\Debug\EntityFramework.dll
+D:\Backup Server\CRM 2\CRM-Project\BLL\bin\Debug\BE.pdb
+D:\Backup Server\CRM 2\CRM-Project\BLL\bin\Debug\DAL.pdb
+D:\Backup Server\CRM 2\CRM-Project\BLL\bin\Debug\DAL.dll.config
+D:\Backup Server\CRM 2\CRM-Project\BLL\bin\Debug\EntityFramework.xml
+D:\Backup Server\CRM 2\CRM-Project\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Backup Server\CRM 2\CRM-Project\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Backup Server\CRM 2\CRM-Project\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Backup Server\CRM 2\CRM-Project\BLL\obj\Debug\BLL.dll
+D:\Backup Server\CRM 2\CRM-Project\BLL\obj\Debug\BLL.pdb

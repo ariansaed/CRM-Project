@@ -1,0 +1,18 @@
+D:\Project-cs\CRMFinalProject\BE\bin\Debug\BE.dll
+D:\Project-cs\CRMFinalProject\BE\bin\Debug\BE.pdb
+D:\Project-cs\CRMFinalProject\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\Project-cs\CRMFinalProject\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Project-cs\CRMFinalProject\BE\obj\Debug\BE.dll
+D:\Project-cs\CRMFinalProject\BE\obj\Debug\BE.pdb
+D:\Project-cs\CRM-Project\BE\bin\Debug\BE.dll
+D:\Project-cs\CRM-Project\BE\bin\Debug\BE.pdb
+D:\Project-cs\CRM-Project\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\Project-cs\CRM-Project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Project-cs\CRM-Project\BE\obj\Debug\BE.dll
+D:\Project-cs\CRM-Project\BE\obj\Debug\BE.pdb
+D:\Backup Server\CRM 2\CRM-Project\BE\bin\Debug\BE.dll
+D:\Backup Server\CRM 2\CRM-Project\BE\bin\Debug\BE.pdb
+D:\Backup Server\CRM 2\CRM-Project\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\Backup Server\CRM 2\CRM-Project\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\Backup Server\CRM 2\CRM-Project\BE\obj\Debug\BE.dll
+D:\Backup Server\CRM 2\CRM-Project\BE\obj\Debug\BE.pdb

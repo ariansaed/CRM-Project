@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="CRMFinalProject.ClockMainWindow"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CRMFinalProject"
+             mc:Ignorable="d" 
+             d:DesignHeight="45" d:DesignWidth="297" >
+    <Grid>
+        <TextBlock x:Name="ClockText"  FontFamily="IRANSansWeb" Text="Date time" FontWeight="Bold" Foreground="#003049" FontSize="25" HorizontalAlignment="Center" VerticalAlignment="Center" />
+    </Grid>
+</UserControl>

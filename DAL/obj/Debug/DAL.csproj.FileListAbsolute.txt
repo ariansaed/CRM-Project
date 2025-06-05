@@ -1,0 +1,49 @@
+D:\Project-cs\CRMFinalProject\DAL\bin\Debug\DAL.dll.config
+D:\Project-cs\CRMFinalProject\DAL\bin\Debug\DAL.dll
+D:\Project-cs\CRMFinalProject\DAL\bin\Debug\DAL.pdb
+D:\Project-cs\CRMFinalProject\DAL\bin\Debug\BE.dll
+D:\Project-cs\CRMFinalProject\DAL\bin\Debug\EntityFramework.dll
+D:\Project-cs\CRMFinalProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project-cs\CRMFinalProject\DAL\bin\Debug\BE.pdb
+D:\Project-cs\CRMFinalProject\DAL\bin\Debug\EntityFramework.xml
+D:\Project-cs\CRMFinalProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project-cs\CRMFinalProject\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Project-cs\CRMFinalProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project-cs\CRMFinalProject\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Project-cs\CRMFinalProject\DAL\obj\Debug\DAL.dll
+D:\Project-cs\CRMFinalProject\DAL\obj\Debug\DAL.pdb
+D:\Project-cs\CRMFinalProject\DAL\obj\Debug\DAL.Migrations.InitialCreate.resources
+D:\Project-cs\CRMFinalProject\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Project-cs\CRMFinalProject\DAL\obj\Debug\DAL.Migrations.DBprojectV1.resources
+D:\Project-cs\CRM-Project\DAL\bin\Debug\DAL.dll.config
+D:\Project-cs\CRM-Project\DAL\bin\Debug\DAL.dll
+D:\Project-cs\CRM-Project\DAL\bin\Debug\DAL.pdb
+D:\Project-cs\CRM-Project\DAL\bin\Debug\BE.dll
+D:\Project-cs\CRM-Project\DAL\bin\Debug\EntityFramework.dll
+D:\Project-cs\CRM-Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project-cs\CRM-Project\DAL\bin\Debug\BE.pdb
+D:\Project-cs\CRM-Project\DAL\bin\Debug\EntityFramework.xml
+D:\Project-cs\CRM-Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project-cs\CRM-Project\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Project-cs\CRM-Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project-cs\CRM-Project\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Project-cs\CRM-Project\DAL\obj\Debug\DAL.dll
+D:\Project-cs\CRM-Project\DAL\obj\Debug\DAL.pdb
+D:\Project-cs\CRM-Project\DAL\obj\Debug\DAL.Migrations.DBprojectV3.resources
+D:\Project-cs\CRM-Project\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Backup Server\CRM 2\CRM-Project\DAL\bin\Debug\DAL.dll.config
+D:\Backup Server\CRM 2\CRM-Project\DAL\bin\Debug\DAL.dll
+D:\Backup Server\CRM 2\CRM-Project\DAL\bin\Debug\DAL.pdb
+D:\Backup Server\CRM 2\CRM-Project\DAL\bin\Debug\BE.dll
+D:\Backup Server\CRM 2\CRM-Project\DAL\bin\Debug\EntityFramework.dll
+D:\Backup Server\CRM 2\CRM-Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Backup Server\CRM 2\CRM-Project\DAL\bin\Debug\BE.pdb
+D:\Backup Server\CRM 2\CRM-Project\DAL\bin\Debug\EntityFramework.xml
+D:\Backup Server\CRM 2\CRM-Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Backup Server\CRM 2\CRM-Project\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Backup Server\CRM 2\CRM-Project\DAL\obj\Debug\DAL.Migrations.DBprojectV3.resources
+D:\Backup Server\CRM 2\CRM-Project\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Backup Server\CRM 2\CRM-Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Backup Server\CRM 2\CRM-Project\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Backup Server\CRM 2\CRM-Project\DAL\obj\Debug\DAL.dll
+D:\Backup Server\CRM 2\CRM-Project\DAL\obj\Debug\DAL.pdb
